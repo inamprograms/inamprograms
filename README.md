@@ -1,11 +1,22 @@
 <h1 align="center">Hi 👋, I'm Inam ul Rehman</h1>
 
-[![Linkedin: Inam ul Rehman](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/inamulrehman/)](https://www.linkedin.com/in/inamulrehman/)
-[![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inamul09rehman@gmail.com)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/824253991197212672)
-[![Youtube Inam ul Rehman](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCgIbCRYNY5ACXdaOkiNrtDA)](https://www.youtube.com/channel/UCgIbCRYNY5ACXdaOkiNrtDA)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/inamulrehman09/)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/inamulrehman/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="inamul09rehman@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://discord.com/users/824253991197212672">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/channel/UCgIbCRYNY5ACXdaOkiNrtDA">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/inamulrehman09/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
+</p>
 
 
 I am a Software Engineer from Pakistan, developing projects by collaborating with 
@@ -23,12 +34,37 @@ I also competed in international hackathons with a team ([@lablab.ai](https://la
 [EquiDonate](https://github.com/inamprograms/EquiDonate) – Platform: lablab.ai, Award: Silver/Gold – LinkedIn Post
 
 
-
 - 🌱 I’m currently learning **Building AI Agents using 11labs conversational AI and hugging face library**
 
 - 💬 Ask me about **Leetcode & DSA, IoT, Generative AI, AI agents, and RAG, Backend**
 
 - 📫 How to reach me **inamul09rehman@gmail.com**
+  
+
+## Tools and Skills  
+
+| Category                | Technologies & Tools |
+|-------------------------|-------------------------------------------------------------------------------------------------------------|
+| **IDEs & Tools**        | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![PlatformIO](https://img.shields.io/badge/-PlatformIO-ff4800?style=flat&logo=platformio&logoColor=white) ![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-00979D?style=flat&logo=arduino&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white) |
+| **Backend & Frameworks** | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+| **API Development & Testing** | ![REST API](https://img.shields.io/badge/REST%20API-1E90FF?style=flat) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+| **Databases**           | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| **AI** | ![Generative AI](https://img.shields.io/badge/-Generative%20AI-5A29E4?style=flat&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-ffca28?style=flat&logo=ai&logoColor=black) ![AI Agents](https://img.shields.io/badge/-AI%20Agents-764ABC?style=flat&logo=ai&logoColor=white) |
+| **IoT & Embedded Systems** | ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat&logo=espressif&logoColor=white) ![ESP8266](https://img.shields.io/badge/-ESP8266-000000?style=flat&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat&logo=mqtt&logoColor=white) ![HTTP](https://img.shields.io/badge/-HTTP-00599C?style=flat&logo=http&logoColor=white) |
+| **Version Control**      | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) |
+
+
+
+### Projects 💼
+- **[EcoFactor](#ecofactor)**  
+- **[Teepon](#)**  
+- **[BlockWhere](#)**  
+- **[Food Complaint Resolution](#)**  
+- **[Neue View](#)**  
+- **[Instagram Computer Vision AI](#)**  
+- **[Other Projects](#)**  
+
 
 ### GitHub Stats
 
@@ -40,9 +76,8 @@ I also competed in international hackathons with a team ([@lablab.ai](https://la
         alt="Profile stats card" />
 </a>
 
-### Projects 💼
 
-### **Ecofactor**  
+### **EcoFactor**  
 Ecofactor was built to bring an idea to life with a team of talented developers, a product manager, and a designer from diverse geographical locations. As a **Software Engineer**, I contributed to the **backend development**, integrating **AI technologies**, collaborating with the team, debugging, and troubleshooting.  
 
 **Objective:**  
