@@ -58,7 +58,7 @@ I also competed in international hackathons with a team ([@lablab.ai](https://la
 
 ### Projects 💼
 - **[EcoFactor](#ecofactor)**  
-- **[Teepon](#)**  
+- **[Teepon](#teepon---your-ai-powered-outing-planner-shortlisted-as-top-5-project)**  
 - **[BlockWhere](#)**  
 - **[Food Complaint Resolution](#)**  
 - **[Neue View](#)**  
@@ -104,6 +104,21 @@ An **AI tool** that provides optimized **product materials**, helping industries
 
 🔹 **Links:**  
 [GitHub Repo](https://github.com/inamprograms/ecofactory) | [Live Demo](https://eco-factory.netlify.app/) | [Follow on LinkedIn](https://www.linkedin.com/company/ecofactorai/) | [LinkedIn Post](#)
+
+
+### Teepon - Your AI Powered Outing Planner (Shortlisted as Top 5 Project)
+In today's life, everyone is busy. You probably made plans to meet with your old college friends, but because of everyone's busy schedules, you may not be able to plan an outing by yourself. 
+
+This tool comes to solve this problem using AI to plan outings by getting the possible free slots from calendars. Along with location based suggestions, it also allows you to regenerate plans if the first suggestion isn’t suitable. Additionally, it considers budget and preferences to ensure the best possible outing plan nearby restaurants or parks to everyone's location.
+
+**Tech Stack:**  
+`HTML` `CSS` `JavaScript`  `Python` `Flask` `Agile Models` `MongoDb`
+
+Users can enter the chat room using their email and chat with each other. AI Agile Models will handle the rest, whether it's calling APIs, planning outings based on user information, or retrieving free availability from Google Calendar.
+
+**Try it out!** [Live Demo](https://agil-hackathon-frontend-2akw.vercel.app/) • [GitHub Repo](https://github.com/inamprograms/Teepon/) • [Team Insights & Challenges](https://www.linkedin.com/feed/update/urn:li:activity:7219377910049103872/) • [Shortlisted in Top 5 & Improvements](https://www.linkedin.com/feed/update/urn:li:activity:7227140022821429248/)
+
+
 
 📫 **Let's Connect:**  
 [GitHub][github-profile] | [LinkedIn][linkedin-profile] | [LeetCode][leetcode-profile] | [Portfolio][portfolio-link]  
