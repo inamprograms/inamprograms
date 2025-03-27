@@ -61,9 +61,9 @@ I also competed in international hackathons with a team ([@lablab.ai](https://la
 - **[Teepon](#teepon---your-ai-powered-outing-planner-shortlisted-as-top-5-projects)**  
 - **[Food Complaint Resolution](#food-complaint-resolution---ai-based-food-delivery-complaint-system-finalist---top-6-projects)**  
 - **[BlockWhere](#blockwhere-empowering-financial-confidence-in-cryptocurrency-development-team-lead)**  
-- **[Neue View](#)**  
+- **[Neue View](#neue-view---ai-powered-solution-for-digitizing-handwritten-records-using-ocr-lead-backend--ai-dev)**  
 - **[Other Projects](#)**  
-- **[Instagram Computer Vision AI](#)**  
+- **[Instagram Computer Vision AI](#)**
 
 
 ### GitHub Stats
@@ -141,6 +141,24 @@ This project was built during a hackathon where we tackled the challenge of inte
 Despite not achieving full implementation, the project was a valuable learning experience. Working collaboratively with the product development and front-end teams—from brainstorming and development to overcoming challenges and submitting the project was an amazing teamwork experience. <br>
 🔗 [[GitHub Repo]](https://github.com/inamprograms/BlockWhere)
 
+### Neue View - AI-Powered Solution for Digitizing Handwritten Records using OCR (Lead Backend & AI Dev)
+Neue View is an AI-driven Optical Character Recognition (OCR) solution designed to digitize handwritten business records, particularly for small businesses in underserved regions. The system extracts data from manual registers (sales, purchases, etc.), structures it into a digital format, and presents it via a web interface or exportable Excel sheets. 
+
+**My Contributions & Technical Implementation:**
+Integrated and tested OCR APIs for data extraction from handwritten records.
+Explored AI models for data extraction, structure the output, or exporting data to Excel.
+Set up the backend server and developed API for data processing.
+
+**Challenges:**
+Improving OCR accuracy for varied handwriting styles.
+Designing AI workflow to get expected results form LLM for the data extracted.
+Seamless backend-frontend integration under tight hackathon constraints.
+
+**Key Learnings:**
+Practical experience in AI model exploration and rapid development.
+Understanding of OCR and exploring different OCR APIs.
+Effective collaboration with diverse team to come up with prototype.<br>
+🔗 [[GitHub Repository]](https://github.com/inamprograms/neue-view/)
 
 
 📫 **Let's Connect:**  
