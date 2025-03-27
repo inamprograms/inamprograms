@@ -58,12 +58,12 @@ I also competed in international hackathons with a team ([@lablab.ai](https://la
 
 ### Projects 💼
 - **[EcoFactor](#ecofactor)**  
-- **[Teepon](#teepon---your-ai-powered-outing-planner-shortlisted-as-top-5-project)**  
-- **[BlockWhere](#)**  
-- **[Food Complaint Resolution](#)**  
+- **[Teepon](#teepon---your-ai-powered-outing-planner-shortlisted-as-top-5-projects)**  
+- **[Food Complaint Resolution](#food-complaint-resolution---ai-based-food-delivery-complaint-system-finalist---top-6-projects)**  
+- **[BlockWhere](#blockwhere-empowering-financial-confidence-in-cryptocurrency-development-team-lead)**  
 - **[Neue View](#)**  
-- **[Instagram Computer Vision AI](#)**  
 - **[Other Projects](#)**  
+- **[Instagram Computer Vision AI](#)**  
 
 
 ### GitHub Stats
@@ -106,7 +106,7 @@ An **AI tool** that provides optimized **product materials**, helping industries
 [GitHub Repo](https://github.com/inamprograms/ecofactory) | [Live Demo](https://eco-factory.netlify.app/) | [Follow on LinkedIn](https://www.linkedin.com/company/ecofactorai/) | [LinkedIn Post](#)
 
 
-### Teepon - Your AI Powered Outing Planner (Shortlisted as Top 5 Project)
+### Teepon - Your AI Powered Outing Planner (Shortlisted as Top 5 Projects)
 In today's life, everyone is busy. You probably made plans to meet with your old college friends, but because of everyone's busy schedules, you may not be able to plan an outing by yourself. 
 
 This tool comes to solve this problem using AI to plan outings by getting the possible free slots from calendars. Along with location based suggestions, it also allows you to regenerate plans if the first suggestion isn’t suitable. Additionally, it considers budget and preferences to ensure the best possible outing plan nearby restaurants or parks to everyone's location.
@@ -117,6 +117,29 @@ This tool comes to solve this problem using AI to plan outings by getting the po
 Users can enter the chat room using their email and chat with each other. AI Agile Models will handle the rest, whether it's calling APIs, planning outings based on user information, or retrieving free availability from Google Calendar.
 
 **Try it out!** [Live Demo](https://agil-hackathon-frontend-2akw.vercel.app/) • [GitHub Repo](https://github.com/inamprograms/Teepon/) • [Team Insights & Challenges](https://www.linkedin.com/feed/update/urn:li:activity:7219377910049103872/) • [Shortlisted in Top 5 & Improvements](https://www.linkedin.com/feed/update/urn:li:activity:7227140022821429248/)
+
+### Food Complaint Resolution - AI-Based Food Delivery Complaint System (Finalist - Top 6 Projects)
+
+Imagine ordering a birthday cake, you only received it damaged and inedible. Traditionally, filing a complaint with the food delivery company requires human involvement - uploading images, waiting for a human to assess the damage, and then processing the resolution. This approach is not only time-consuming but also dependent on human availability.
+
+Our **Food Complaint Resolution System** eliminates the need for human involvement in the initial complaint process. Users simply upload images of the damaged food, and the system—leveraging **multimodal AI functionality** - automatically analyzes the issue. It processes complaints efficiently by applying company policies to determine an appropriate resolution, such as issuing a cashback refund. If the customer remains dissatisfied or reaches the maximum number of complaint attempts, the system redirects the case to a human for further review.
+
+Built collaboratively with a team, this project enhances the food delivery complaint process by significantly reducing wait times and improving efficiency. **Check out the GitHub link to explore its features, tech stack, visuals, and the team behind it!** 🚀<br> 
+🔗 [[GitHub ReadMe]](https://github.com/inamprograms/Food-complaint-resolution-app/blob/main/README.md)
+
+### BlockWhere: Empowering Financial Confidence in Cryptocurrency (Development Team Lead)
+
+**Project Overview:**
+BlockWhere is designed to make cryptocurrency more accessible, trustworthy, and secure, particularly for underserved communities. The platform provides accurate, reliable, and actionable insights, helping users navigate the digital financial ecosystem with confidence.
+
+**Objective:**
+Our goal is to bridge the gap between cryptocurrency and accessibility by offering a platform with verified information, educational resources, and security measures to foster financial inclusion and economic empowerment.
+
+**Development & Challenges:**
+This project was built during a hackathon where we tackled the challenge of integrating Retrieval-Augmented Generation (RAG) and AI agents. Initially, I implemented RAG using Vectara, but integration issues caused delays. To adapt, I focused on developing AI agents using CrewAI to generate platform-specific posts for LinkedIn, Instagram, and other social media. While the backend was successfully developed and tested using Postman, the team faced challenges integrating it with the frontend within the given timeframe.
+
+Despite not achieving full implementation, the project was a valuable learning experience. Working collaboratively with the product development and front-end teams—from brainstorming and development to overcoming challenges and submitting the project was an amazing teamwork experience. <br>
+🔗 [[GitHub Repo]](https://github.com/inamprograms/BlockWhere)
 
 
 
