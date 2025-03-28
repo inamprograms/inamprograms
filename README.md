@@ -62,7 +62,7 @@ I also competed in international hackathons with a team ([@lablab.ai](https://la
 - **[Food Complaint Resolution](#food-complaint-resolution---ai-based-food-delivery-complaint-system-finalist---top-6-projects)**  
 - **[BlockWhere](#blockwhere-empowering-financial-confidence-in-cryptocurrency-development-team-lead)**  
 - **[Neue View](#neue-view---ai-powered-solution-for-digitizing-handwritten-records-using-ocr-lead-backend--ai-dev)**  
-- **[Other Projects](#)**  
+- **[Other Projects](#other-projects)**  
 - **[Instagram Computer Vision AI](#)**
 
 
@@ -159,6 +159,21 @@ Practical experience in AI model exploration and rapid development.
 Understanding of OCR and exploring different OCR APIs.
 Effective collaboration with diverse team to come up with prototype.<br>
 🔗 [[GitHub Repository]](https://github.com/inamprograms/neue-view/)
+
+### Other Projects
+
+**IoT-Based Single-Phase Energy Meter** – A smart energy monitoring system using ESP32, ACS712, and ZMPT101b to measure voltage and current consumption. The ESP32 collects sensor data, processes it, and stores it in a database via an API. A simple web interface visualizes power usage with a graph. Built with C/C++ and Python. Calibration of voltage remains an area for improvement.
+🔗 [[GitHub Repository]](https://github.com/inamprograms/IoT-based-single-phase-energy-meter)
+
+**Instagram Computer Vision AI** - An AI tool that downloads Instagram videos and narrates what is in the video in both text and audio formats using the Instagram API and a multimodal approach, integrating models like GPT-4 for text generation and audio models for speech synthesis.This solves the problem for those who cannot understand what's in the video or do not have time to watch the whole video on their favorite topic. <br>
+🔗 [[Demo]](https://instagramcomputervision.streamlit.app/)
+🔗 [[GitHub Repository]](https://github.com/inamprograms/InstagramComputerVisionAI)
+
+
+
+
+
+
 
 
 📫 **Let's Connect:**  
