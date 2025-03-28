@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Inam ul Rehman</h1>
 
+<!-- ## 🌐 Connect with Me -->
 <p align="center">
   <a href="https://www.linkedin.com/in/inamulrehman/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="inamul09rehman@gmail.com">
+  <a href="mailto:inamul09rehman@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://discord.com/users/824253991197212672">
@@ -18,6 +19,8 @@
   </a>
 </p>
 
+<!-- --- -->
+<!-- About Me -->
 
 I am a Software Engineer from Pakistan, developing projects by collaborating with 
 international individuals in AI, including Generative AI, AI agents, and RAG. I 
@@ -27,11 +30,9 @@ data and sending it to databases or the cloud via APIs.
 
 I do problem-solving in C++ and have participated in different international coding 
 competitions ([Advent of Code](https://adventofcode.com/), [Meta Hacker Cup](https://web.facebook.com/codingcompetitions/hacker-cup), [Google Coding Farewell](#), [Harvard's CS50x](https://cs50.harvard.edu/x/2025/puzzles/) ). I love to teach and learn, which led me to teach Python [@Stanford's Code in Place](https://codeinplace.stanford.edu/), conduct IoT workshops, and present LeetCode problems to underprivileged students [@iCodeGuru](https://icode.guru/). <br>
-I also competed in international hackathons with a team ([@lablab.ai](https://lablab.ai/event), [@genai.works](https://genai.works/hackathon), [elevenlabs.io](https://hackathon.elevenlabs.io/)), these three of the projects were recognized with awards:
-
-[Teepon](https://github.com/inamprograms/Teepon) – Platform: lablab.ai, Award: Silver/Gold – LinkedIn Post
-[Food Complaint Resolution](https://github.com/inamprograms/Food-complaint-resolution-app) Platform: lablab.ai, Award: Silver/Gold – LinkedIn Post
-[EquiDonate](https://github.com/inamprograms/EquiDonate) – Platform: lablab.ai, Award: Silver/Gold – LinkedIn Post
+I also competed in international hackathons with a team ([@lablab.ai](https://lablab.ai/event), [@genai.works](https://genai.works/hackathon), [elevenlabs.io](https://hackathon.elevenlabs.io/)), these three of the projects were recognized with awards: [Teepon](#teepon---your-ai-powered-outing-planner-shortlisted-as-top-5-projects) **.** 
+[Food Complaint Resolution](#food-complaint-resolution---ai-based-food-delivery-complaint-system-finalist---top-6-projects) **.** 
+[EquiDonate](https://github.com/inamprograms/EquiDonate) **.**
 
 
 - 🌱 I’m currently learning **Building AI Agents using 11labs conversational AI and hugging face library**
@@ -39,8 +40,12 @@ I also competed in international hackathons with a team ([@lablab.ai](https://la
 - 💬 Ask me about **Leetcode & DSA, IoT, Generative AI, AI agents, and RAG, Backend**
 
 - 📫 How to reach me **inamul09rehman@gmail.com**
-  
 
+<!-- --- -->
+
+
+
+<!-- Tools and Skills   -->
 ## Tools and Skills  
 
 | Category                | Technologies & Tools |
@@ -56,28 +61,31 @@ I also competed in international hackathons with a team ([@lablab.ai](https://la
 
 
 
-### Projects 💼
+<!-- Projects -->
+## Projects 💼
 - **[EcoFactor](#ecofactor)**  
 - **[Teepon](#teepon---your-ai-powered-outing-planner-shortlisted-as-top-5-projects)**  
 - **[Food Complaint Resolution](#food-complaint-resolution---ai-based-food-delivery-complaint-system-finalist---top-6-projects)**  
 - **[BlockWhere](#blockwhere-empowering-financial-confidence-in-cryptocurrency-development-team-lead)**  
 - **[Neue View](#neue-view---ai-powered-solution-for-digitizing-handwritten-records-using-ocr-lead-backend--ai-dev)**  
 - **[Other Projects](#other-projects)**  
-- **[Instagram Computer Vision AI](#)**
 
 
-### GitHub Stats
 
+<!-- GitHub Stats -->
+## GitHub Stats
 <a href="https://github.com/inamprograms" alt="Go to GitHub profile">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inamprograms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
         alt="Top languages card" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=inamprograms" alt="Streak stats card" />
+    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=inamprograms" alt="Streak stats card" /> -->
+    <img src="https://streak-stats.demolab.com/?user=inamprograms" alt="Streak stats card" />
     <img src="https://github-readme-stats.vercel.app/api?username=inamprograms&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" 
         alt="Profile stats card" />
 </a>
 
-
-### **EcoFactor**  
+---
+<!-- Project 1 - EcoFactor -->
+### EcoFactor 
 Ecofactor was built to bring an idea to life with a team of talented developers, a product manager, and a designer from diverse geographical locations. As a **Software Engineer**, I contributed to the **backend development**, integrating **AI technologies**, collaborating with the team, debugging, and troubleshooting.  
 
 **Objective:**  
@@ -105,7 +113,9 @@ An **AI tool** that provides optimized **product materials**, helping industries
 🔹 **Links:**  
 [GitHub Repo](https://github.com/inamprograms/ecofactory) | [Live Demo](https://eco-factory.netlify.app/) | [Follow on LinkedIn](https://www.linkedin.com/company/ecofactorai/) | [LinkedIn Post](#)
 
+---
 
+<!-- Project 2 - Teapon -->
 ### Teepon - Your AI Powered Outing Planner (Shortlisted as Top 5 Projects)
 In today's life, everyone is busy. You probably made plans to meet with your old college friends, but because of everyone's busy schedules, you may not be able to plan an outing by yourself. 
 
@@ -118,6 +128,9 @@ Users can enter the chat room using their email and chat with each other. AI Agi
 
 **Try it out!** [Live Demo](https://agil-hackathon-frontend-2akw.vercel.app/) • [GitHub Repo](https://github.com/inamprograms/Teepon/) • [Team Insights & Challenges](https://www.linkedin.com/feed/update/urn:li:activity:7219377910049103872/) • [Shortlisted in Top 5 & Improvements](https://www.linkedin.com/feed/update/urn:li:activity:7227140022821429248/)
 
+---
+
+<!-- Project 3 - Food Complaint Resolution -->
 ### Food Complaint Resolution - AI-Based Food Delivery Complaint System (Finalist - Top 6 Projects)
 
 Imagine ordering a birthday cake, you only received it damaged and inedible. Traditionally, filing a complaint with the food delivery company requires human involvement - uploading images, waiting for a human to assess the damage, and then processing the resolution. This approach is not only time-consuming but also dependent on human availability.
@@ -127,6 +140,9 @@ Our **Food Complaint Resolution System** eliminates the need for human involveme
 Built collaboratively with a team, this project enhances the food delivery complaint process by significantly reducing wait times and improving efficiency. **Check out the GitHub link to explore its features, tech stack, visuals, and the team behind it!** 🚀<br> 
 🔗 [[GitHub ReadMe]](https://github.com/inamprograms/Food-complaint-resolution-app/blob/main/README.md)
 
+---
+
+<!-- Project 4 - BlockWhere -->
 ### BlockWhere: Empowering Financial Confidence in Cryptocurrency (Development Team Lead)
 
 **Project Overview:**
@@ -141,6 +157,9 @@ This project was built during a hackathon where we tackled the challenge of inte
 Despite not achieving full implementation, the project was a valuable learning experience. Working collaboratively with the product development and front-end teams—from brainstorming and development to overcoming challenges and submitting the project was an amazing teamwork experience. <br>
 🔗 [[GitHub Repo]](https://github.com/inamprograms/BlockWhere)
 
+---
+
+<!-- Project 5 - Neue View -->
 ### Neue View - AI-Powered Solution for Digitizing Handwritten Records using OCR (Lead Backend & AI Dev)
 Neue View is an AI-driven Optical Character Recognition (OCR) solution designed to digitize handwritten business records, particularly for small businesses in underserved regions. The system extracts data from manual registers (sales, purchases, etc.), structures it into a digital format, and presents it via a web interface or exportable Excel sheets. 
 
@@ -160,8 +179,10 @@ Understanding of OCR and exploring different OCR APIs.
 Effective collaboration with diverse team to come up with prototype.<br>
 🔗 [[GitHub Repository]](https://github.com/inamprograms/neue-view/)
 
-### Other Projects
+---
 
+<!-- Projects 6 - 11 Other Projects -->
+### Other Projects
 **IoT-Based Single-Phase Energy Meter** – A smart energy monitoring system using ESP32, ACS712, and ZMPT101b to measure voltage and current consumption. The ESP32 collects sensor data, processes it, and stores it in a database via an API. A simple web interface visualizes power usage with a graph. Built with C/C++ and Python. Calibration of voltage remains an area for improvement.
 🔗 [[GitHub Repository]](https://github.com/inamprograms/IoT-based-single-phase-energy-meter)
 
@@ -180,6 +201,7 @@ Effective collaboration with diverse team to come up with prototype.<br>
 
 **Customer Record Identification** – Developed a mobile app using Android Studio, Java, and Firebase. The app includes a splash screen, login functionality using Gmail, and the ability to add new customer records, which are stored in Firebase.
 
+---
 
 📫 **Let's Connect:**  
 [GitHub][github-profile] | [LinkedIn][linkedin-profile] | [LeetCode][leetcode-profile] | [Portfolio][portfolio-link]  
