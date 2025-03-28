@@ -166,14 +166,19 @@ Effective collaboration with diverse team to come up with prototype.<br>
 🔗 [[GitHub Repository]](https://github.com/inamprograms/IoT-based-single-phase-energy-meter)
 
 **Instagram Computer Vision AI** - An AI tool that downloads Instagram videos and narrates what is in the video in both text and audio formats using the Instagram API and a multimodal approach, integrating models like GPT-4 for text generation and audio models for speech synthesis.This solves the problem for those who cannot understand what's in the video or do not have time to watch the whole video on their favorite topic. <br>
-🔗 [[Demo]](https://instagramcomputervision.streamlit.app/)
+🔗 [[Demo]](https://instagramcomputervision.streamlit.app/) 
 🔗 [[GitHub Repository]](https://github.com/inamprograms/InstagramComputerVisionAI)
 
+**Controlling LED from PyQt App** – A PyQt-based application to toggle an LED on/off based on its status stored in a MySQL database. The ESP32 updates the LED status in the database via an API and controls the LED accordingly.
+🔗 [[GitHub Repository]](https://github.com/inamprograms/esp32/tree/main/PYQT)
 
+**Home Automation** – Automated home appliance using ESP8266, a 5V single-channel relay module, and a two-way switch. The ESP8266 controls the load by triggering the relay when a user toggles using Blynk app. A two-way switch allows manual operation for those unfamiliar with the app.<br>
+🔗 [[GitHub Repository]](https://github.com/inamprograms/esp8266/blob/main/class14a/class14a.ino)
 
+**Controlling Traffic Light Signal Centrally** – Used ESP8266 to create a web server and control traffic signals remotely via API. One ESP8266 device acts as a central controller, sending signals to other ESP8266 devices at different locations to turn on specific traffic lights (red, yellow, green, orange).
+🔗 [[GitHub Repository]](https://github.com/inamprograms/esp8266/blob/main/class10b/class10b.ino)
 
-
-
+**Customer Record Identification** – Developed a mobile app using Android Studio, Java, and Firebase. The app includes a splash screen, login functionality using Gmail, and the ability to add new customer records, which are stored in Firebase.
 
 
 📫 **Let's Connect:**  
