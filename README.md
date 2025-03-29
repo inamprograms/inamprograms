@@ -74,132 +74,178 @@ I also competed in international hackathons with a team ([@lablab.ai](https://la
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-<a href="https://github.com/inamprograms" alt="Go to GitHub profile">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inamprograms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
-        alt="Top languages card" />
-    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=inamprograms" alt="Streak stats card" /> -->
-    <img src="https://streak-stats.demolab.com/?user=inamprograms" alt="Streak stats card" />
-    <img src="https://github-readme-stats.vercel.app/api?username=inamprograms&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" 
-        alt="Profile stats card" />
-</a>
+<details>
+  <summary>Read more</summary>
+
+  <a href="https://github.com/inamprograms" alt="Go to GitHub profile">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inamprograms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
+          alt="Top languages card" />
+      <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=inamprograms" alt="Streak stats card" /> -->
+      <img src="https://streak-stats.demolab.com/?user=inamprograms" alt="Streak stats card" />
+      <img src="https://github-readme-stats.vercel.app/api?username=inamprograms&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" 
+          alt="Profile stats card" />
+  </a>
+</details>
 
 ---
 <!-- Project 1 - EcoFactor -->
 ### EcoFactor 
-Ecofactor was built to bring an idea to life with a team of talented developers, a product manager, and a designer from diverse geographical locations. As a **Software Engineer**, I contributed to the **backend development**, integrating **AI technologies**, collaborating with the team, debugging, and troubleshooting.  
+<details>
+  <summary>Read more</summary>
 
-**Objective:**  
-An **AI tool** that provides optimized **product materials**, helping industries **reduce costs while maintaining quality**. Additionally, it includes an **ESG guidelines checker** for products and a **custom ChatGPT-like functionality**.  
+  Ecofactor was built to bring an idea to life with a team of talented developers, a product manager, and a designer from diverse geographical locations. As a **Software Engineer**, I contributed to the **backend development**, integrating **AI technologies**, collaborating with the team, debugging, and troubleshooting.  
 
-**Tech Stack:**  
-`HTML` `CSS` `JavaScript` `Bootstrap` `Python` `Flask` `Generative AI (GPT 3.5 Turbo, GPT 4o, Vectara)`
+  **Objective:**  
+  An **AI tool** that provides optimized **product materials**, helping industries **reduce costs while maintaining quality**. Additionally, it includes an **ESG guidelines checker** for products and a **custom ChatGPT-like functionality**.  
 
-🔹 **Features:**  
-- Upload a **product description document** and chat with Ecofactor to receive optimized material suggestions.  
-- **ESG guidelines checker** provides compliance recommendations based on product specifications.
-- **Custom ChatGPT-like functionality** allowing users to ask general queries.
+  **Tech Stack:**  
+  `HTML` `CSS` `JavaScript` `Bootstrap` `Python` `Flask` `Generative AI (GPT 3.5 Turbo, GPT 4o, Vectara)`
 
-🔹 **My Role & Contributions:**  
-- Developed the **backend using Python Flask**, creating a **REST API** and conducting **unit testing**.  
-- Integrated **OpenAI's GPT models, Vectara APIs, and Pinecone vector database**, developing a **RAG-based system**.  
-- **Deployed the backend** on the cloud, troubleshooting deployment issues.  
-- Collaborated with **mentors and team members** through pair programming, ensuring smooth integration with the **frontend team**.  
-- Explored additional resources on web scrapers, Vectara ingest (crawlers), and OpenAI's Assistant API.
+  🔹 **Features:**  
+  - Upload a **product description document** and chat with Ecofactor to receive optimized material suggestions.  
+  - **ESG guidelines checker** provides compliance recommendations based on product specifications.
+  - **Custom ChatGPT-like functionality** allowing users to ask general queries.
 
-🔹 **Future Enhancements:**  
-- Fine-tuning the **product optimization feature** for better material recommendations.  
-- Adding **ESG guidelines checker** functionalities to analyze product ESG guidelines, suggest ESG best practices.  
+  🔹 **My Role & Contributions:**  
+  - Developed the **backend using Python Flask**, creating a **REST API** and conducting **unit testing**.  
+  - Integrated **OpenAI's GPT models, Vectara APIs, and Pinecone vector database**, developing a **RAG-based system**.  
+  - **Deployed the backend** on the cloud, troubleshooting deployment issues.  
+  - Collaborated with **mentors and team members** through pair programming, ensuring smooth integration with the **frontend team**.  
+  - Explored additional resources on web scrapers, Vectara ingest (crawlers), and OpenAI's Assistant API.
 
-🔹 **Links:**  
-[GitHub Repo](https://github.com/inamprograms/ecofactory) | [Live Demo](https://eco-factory.netlify.app/) | [Follow on LinkedIn](https://www.linkedin.com/company/ecofactorai/) | [LinkedIn Post](#)
+  🔹 **Future Enhancements:**  
+  - Fine-tuning the **product optimization feature** for better material recommendations.  
+  - Adding **ESG guidelines checker** functionalities to analyze product ESG guidelines, suggest ESG best practices.  
+
+  🔹 **Links:**  
+  [GitHub Repo](https://github.com/inamprograms/ecofactory) | [Live Demo](https://eco-factory.netlify.app/) | [Follow on LinkedIn](https://www.linkedin.com/company/ecofactorai/) | [LinkedIn Post](#)
+</details> 
 
 ---
 
 <!-- Project 2 - Teapon -->
-### Teepon - Your AI Powered Outing Planner (Shortlisted as Top 5 Projects)
-In today's life, everyone is busy. You probably made plans to meet with your old college friends, but because of everyone's busy schedules, you may not be able to plan an outing by yourself. 
+### Teepon - Your AI Powered Outing Planner (Shortlisted as Top 5 Projects) 
+<details>
+  <summary>Read more</summary>
 
-This tool comes to solve this problem using AI to plan outings by getting the possible free slots from calendars. Along with location based suggestions, it also allows you to regenerate plans if the first suggestion isn’t suitable. Additionally, it considers budget and preferences to ensure the best possible outing plan nearby restaurants or parks to everyone's location.
+  In today's life, everyone is busy. You probably made plans to meet with your old college friends, but because of everyone's busy schedules, you may not be able to plan an outing by yourself. 
 
-**Tech Stack:**  
-`HTML` `CSS` `JavaScript`  `Python` `Flask` `Agile Models` `MongoDb`
+  This tool comes to solve this problem using AI to plan outings by getting the possible free slots from calendars. Along with location based suggestions, it also allows you to regenerate plans if the first suggestion isn’t suitable. Additionally, it considers budget and preferences to ensure the best possible outing plan nearby restaurants or parks to everyone's location.
 
-Users can enter the chat room using their email and chat with each other. AI Agile Models will handle the rest, whether it's calling APIs, planning outings based on user information, or retrieving free availability from Google Calendar.
+  **Tech Stack:**  
+  `HTML` `CSS` `JavaScript`  `Python` `Flask` `Agile Models` `MongoDb`
 
-**Try it out!** [Live Demo](https://agil-hackathon-frontend-2akw.vercel.app/) • [GitHub Repo](https://github.com/inamprograms/Teepon/) • [Team Insights & Challenges](https://www.linkedin.com/feed/update/urn:li:activity:7219377910049103872/) • [Shortlisted in Top 5 & Improvements](https://www.linkedin.com/feed/update/urn:li:activity:7227140022821429248/)
+  Users can enter the chat room using their email and chat with each other. AI Agile Models will handle the rest, whether it's calling APIs, planning outings based on user information, or retrieving free availability from Google Calendar.
+
+  **Try it out!** [Live Demo](https://agil-hackathon-frontend-2akw.vercel.app/) • [GitHub Repo](https://github.com/inamprograms/Teepon/) • [Team Insights & Challenges](https://www.linkedin.com/feed/update/urn:li:activity:7219377910049103872/) • [Shortlisted in Top 5 & Improvements](https://www.linkedin.com/feed/update/urn:li:activity:7227140022821429248/)
+</details> 
 
 ---
 
 <!-- Project 3 - Food Complaint Resolution -->
 ### Food Complaint Resolution - AI-Based Food Delivery Complaint System (Finalist - Top 6 Projects)
+<details>
+  <summary>Read more</summary>
+  
+  Imagine ordering a birthday cake, you only received it damaged and inedible. Traditionally, filing a complaint with the food delivery company requires human involvement - uploading images, waiting for a human to assess the damage, and then processing the resolution. This approach is not only time-consuming but also dependent on human availability.
 
-Imagine ordering a birthday cake, you only received it damaged and inedible. Traditionally, filing a complaint with the food delivery company requires human involvement - uploading images, waiting for a human to assess the damage, and then processing the resolution. This approach is not only time-consuming but also dependent on human availability.
+  Our **Food Complaint Resolution System** eliminates the need for human involvement in the initial complaint process. Users simply upload images of the damaged food, and the system—leveraging **multimodal AI functionality** - automatically analyzes the issue. It processes complaints efficiently by applying company policies to determine an appropriate resolution, such as issuing a cashback refund. If the customer remains dissatisfied or reaches the maximum number of complaint attempts, the system redirects the case to a human for further review.
 
-Our **Food Complaint Resolution System** eliminates the need for human involvement in the initial complaint process. Users simply upload images of the damaged food, and the system—leveraging **multimodal AI functionality** - automatically analyzes the issue. It processes complaints efficiently by applying company policies to determine an appropriate resolution, such as issuing a cashback refund. If the customer remains dissatisfied or reaches the maximum number of complaint attempts, the system redirects the case to a human for further review.
-
-Built collaboratively with a team, this project enhances the food delivery complaint process by significantly reducing wait times and improving efficiency. **Check out the GitHub link to explore its features, tech stack, visuals, and the team behind it!** 🚀<br> 
-🔗 [[GitHub ReadMe]](https://github.com/inamprograms/Food-complaint-resolution-app/blob/main/README.md)
+  Built collaboratively with a team, this project enhances the food delivery complaint process by significantly reducing wait times and improving efficiency. **Check out the GitHub link to explore its features, tech stack, visuals, and the team behind it!** 🚀<br> 
+  🔗 [[GitHub ReadMe]](https://github.com/inamprograms/Food-complaint-resolution-app/blob/main/README.md)
+</details> 
 
 ---
 
 <!-- Project 4 - BlockWhere -->
 ### BlockWhere: Empowering Financial Confidence in Cryptocurrency (Development Team Lead)
+<details>
+  <summary>Read more</summary>
 
-**Project Overview:**
-BlockWhere is designed to make cryptocurrency more accessible, trustworthy, and secure, particularly for underserved communities. The platform provides accurate, reliable, and actionable insights, helping users navigate the digital financial ecosystem with confidence.
+  **Project Overview:**
+  BlockWhere is designed to make cryptocurrency more accessible, trustworthy, and secure, particularly for underserved communities. The platform provides accurate, reliable, and actionable insights, helping users navigate the digital financial ecosystem with confidence.
 
-**Objective:**
-Our goal is to bridge the gap between cryptocurrency and accessibility by offering a platform with verified information, educational resources, and security measures to foster financial inclusion and economic empowerment.
+  **Objective:**
+  Our goal is to bridge the gap between cryptocurrency and accessibility by offering a platform with verified information, educational resources, and security measures to foster financial inclusion and economic empowerment.
 
-**Development & Challenges:**
-This project was built during a hackathon where we tackled the challenge of integrating Retrieval-Augmented Generation (RAG) and AI agents. Initially, I implemented RAG using Vectara, but integration issues caused delays. To adapt, I focused on developing AI agents using CrewAI to generate platform-specific posts for LinkedIn, Instagram, and other social media. While the backend was successfully developed and tested using Postman, the team faced challenges integrating it with the frontend within the given timeframe.
+  **Development & Challenges:**
+  This project was built during a hackathon where we tackled the challenge of integrating Retrieval-Augmented Generation (RAG) and AI agents. Initially, I implemented RAG using Vectara, but integration issues caused delays. To adapt, I focused on developing AI agents using CrewAI to generate platform-specific posts for LinkedIn, Instagram, and other social media. While the backend was successfully developed and tested using Postman, the team faced challenges integrating it with the frontend within the given timeframe.
 
-Despite not achieving full implementation, the project was a valuable learning experience. Working collaboratively with the product development and front-end teams—from brainstorming and development to overcoming challenges and submitting the project was an amazing teamwork experience. <br>
-🔗 [[GitHub Repo]](https://github.com/inamprograms/BlockWhere)
+  Despite not achieving full implementation, the project was a valuable learning experience. Working collaboratively with the product development and front-end teams—from brainstorming and development to overcoming challenges and submitting the project was an amazing teamwork experience. <br>
+  🔗 [[GitHub Repo]](https://github.com/inamprograms/BlockWhere)
+</details> 
 
 ---
 
 <!-- Project 5 - Neue View -->
 ### Neue View - AI-Powered Solution for Digitizing Handwritten Records using OCR (Lead Backend & AI Dev)
-Neue View is an AI-driven Optical Character Recognition (OCR) solution designed to digitize handwritten business records, particularly for small businesses in underserved regions. The system extracts data from manual registers (sales, purchases, etc.), structures it into a digital format, and presents it via a web interface or exportable Excel sheets. 
+<details>
+  <summary>Read more</summary>
 
-**My Contributions & Technical Implementation:**
-Integrated and tested OCR APIs for data extraction from handwritten records.
-Explored AI models for data extraction, structure the output, or exporting data to Excel.
-Set up the backend server and developed API for data processing.
+  Neue View is an AI-driven Optical Character Recognition (OCR) solution designed to digitize handwritten business records, particularly for small businesses in underserved regions. The system extracts data from manual registers (sales, purchases, etc.), structures it into a digital format, and presents it via a web interface or exportable Excel sheets. 
 
-**Challenges:**
-Improving OCR accuracy for varied handwriting styles.
-Designing AI workflow to get expected results form LLM for the data extracted.
-Seamless backend-frontend integration under tight hackathon constraints.
+  **My Contributions & Technical Implementation:**
+  Integrated and tested OCR APIs for data extraction from handwritten records.
+  Explored AI models for data extraction, structure the output, or exporting data to Excel.
+  Set up the backend server and developed API for data processing.
 
-**Key Learnings:**
-Practical experience in AI model exploration and rapid development.
-Understanding of OCR and exploring different OCR APIs.
-Effective collaboration with diverse team to come up with prototype.<br>
-🔗 [[GitHub Repository]](https://github.com/inamprograms/neue-view/)
+  **Challenges:**
+  Improving OCR accuracy for varied handwriting styles.
+  Designing AI workflow to get expected results form LLM for the data extracted.
+  Seamless backend-frontend integration under tight hackathon constraints.
+
+  **Key Learnings:**
+  Practical experience in AI model exploration and rapid development.
+  Understanding of OCR and exploring different OCR APIs.
+  Effective collaboration with diverse team to come up with prototype.<br>
+  🔗 [[GitHub Repository]](https://github.com/inamprograms/neue-view/)
+</details> 
 
 ---
 
 <!-- Projects 6 - 11 Other Projects -->
 ### Other Projects
-**IoT-Based Single-Phase Energy Meter** – A smart energy monitoring system using ESP32, ACS712, and ZMPT101b to measure voltage and current consumption. The ESP32 collects sensor data, processes it, and stores it in a database via an API. A simple web interface visualizes power usage with a graph. Built with C/C++ and Python. Calibration of voltage remains an area for improvement.
-🔗 [[GitHub Repository]](https://github.com/inamprograms/IoT-based-single-phase-energy-meter)
+<details>
+  <summary>Read more</summary>
 
-**Instagram Computer Vision AI** - An AI tool that downloads Instagram videos and narrates what is in the video in both text and audio formats using the Instagram API and a multimodal approach, integrating models like GPT-4 for text generation and audio models for speech synthesis.This solves the problem for those who cannot understand what's in the video or do not have time to watch the whole video on their favorite topic. <br>
-🔗 [[Demo]](https://instagramcomputervision.streamlit.app/) 
-🔗 [[GitHub Repository]](https://github.com/inamprograms/InstagramComputerVisionAI)
+  **IoT-Based Single-Phase Energy Meter** – A smart energy monitoring system using ESP32, ACS712, and ZMPT101b to measure voltage and current consumption. The ESP32 collects sensor data, processes it, and stores it in a database via an API. A simple web interface visualizes power usage with a graph. Built with C/C++ and Python. Calibration of voltage remains an area for improvement.
+  🔗 [[GitHub Repository]](https://github.com/inamprograms/IoT-based-single-phase-energy-meter)
 
-**Controlling LED from PyQt App** – A PyQt-based application to toggle an LED on/off based on its status stored in a MySQL database. The ESP32 updates the LED status in the database via an API and controls the LED accordingly.
-🔗 [[GitHub Repository]](https://github.com/inamprograms/esp32/tree/main/PYQT)
+  **Instagram Computer Vision AI** - An AI tool that downloads Instagram videos and narrates what is in the video in both text and audio formats using the Instagram API and a multimodal approach, integrating models like GPT-4 for text generation and audio models for speech synthesis.This solves the problem for those who cannot understand what's in the video or do not have time to watch the whole video on their favorite topic. <br>
+  🔗 [[Demo]](https://instagramcomputervision.streamlit.app/) 
+  🔗 [[GitHub Repository]](https://github.com/inamprograms/InstagramComputerVisionAI)
 
-**Home Automation** – Automated home appliance using ESP8266, a 5V single-channel relay module, and a two-way switch. The ESP8266 controls the load by triggering the relay when a user toggles using Blynk app. A two-way switch allows manual operation for those unfamiliar with the app.<br>
-🔗 [[GitHub Repository]](https://github.com/inamprograms/esp8266/blob/main/class14a/class14a.ino)
+  **Controlling LED from PyQt App** – A PyQt-based application to toggle an LED on/off based on its status stored in a MySQL database. The ESP32 updates the LED status in the database via an API and controls the LED accordingly.
+  🔗 [[GitHub Repository]](https://github.com/inamprograms/esp32/tree/main/PYQT)
 
-**Controlling Traffic Light Signal Centrally** – Used ESP8266 to create a web server and control traffic signals remotely via API. One ESP8266 device acts as a central controller, sending signals to other ESP8266 devices at different locations to turn on specific traffic lights (red, yellow, green, orange).
-🔗 [[GitHub Repository]](https://github.com/inamprograms/esp8266/blob/main/class10b/class10b.ino)
+  **Home Automation** – Automated home appliance using ESP8266, a 5V single-channel relay module, and a two-way switch. The ESP8266 controls the load by triggering the relay when a user toggles using Blynk app. A two-way switch allows manual operation for those unfamiliar with the app.<br>
+  🔗 [[GitHub Repository]](https://github.com/inamprograms/esp8266/blob/main/class14a/class14a.ino)
 
-**Customer Record Identification** – Developed a mobile app using Android Studio, Java, and Firebase. The app includes a splash screen, login functionality using Gmail, and the ability to add new customer records, which are stored in Firebase.
+  **Controlling Traffic Light Signal Centrally** – Used ESP8266 to create a web server and control traffic signals remotely via API. One ESP8266 device acts as a central controller, sending signals to other ESP8266 devices at different locations to turn on specific traffic lights (red, yellow, green, orange).
+  🔗 [[GitHub Repository]](https://github.com/inamprograms/esp8266/blob/main/class10b/class10b.ino)
+
+  **Customer Record Identification** – Developed a mobile app using Android Studio, Java, and Firebase. The app includes a splash screen, login functionality using Gmail, and the ability to add new customer records, which are stored in Firebase.
+</details> 
+
+---
+
+<!-- My Recent Articles & Posts on LinkedIn -->
+## 📝 Recent Articles & Posts  
+
+### 📜 Articles  
+- [How an AI Model Powers an AI Agent?](https://www.linkedin.com/pulse/how-ai-model-powers-agent-inam-ul-rehman-y8fgf)  
+- [Build your own Git - Implementing Git Commands in Python](https://www.linkedin.com/pulse/build-your-own-git-implementing-commands-python-inam-ul-rehman-rllff)  
+- [Create, start/run, stop, remove, and get into the container](https://www.linkedin.com/pulse/create-startrun-stop-remove-get-container-inam-ul-rehman)  
+- [Corporate Entrepreneurship](https://www.linkedin.com/pulse/corporate-entrepreneurship-inam-ul-rehman)  
+- [Leetcode- 567. Permutation in String](https://www.linkedin.com/pulse/leetcode-567-permutation-string-inam-ul-rehman)  
+- [LeetCode Problem- 75. Sort Colors](https://www.linkedin.com/pulse/leetcode-problem-75-sort-colors-inam-ul-rehman)  
+
+### ✍️ Posts  
+- [How AI Agents Use Tools to Take Actions?](https://www.linkedin.com/feed/update/urn:li:activity:7310665667978911744/)  
+- [How do LLMs structure their response through Chat templates?](https://www.linkedin.com/feed/update/urn:li:activity:7310321384788758529/)
+- [What is an AI agent?](https://www.linkedin.com/feed/update/urn:li:activity:7301226684442161154/)
+
+🔗 [Explore more of my insights on LinkedIn →](https://www.linkedin.com/in/inamulrehman/recent-activity/all/)
 
 ---
 
